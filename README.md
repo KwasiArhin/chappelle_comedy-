@@ -1,4 +1,4 @@
-# NFL Receiver Clusters 
+# Dave Chapelles comedy routine 
 
 ![](https://github.com/KwasiArhin/NflClusterAnalysis/blob/master/images/cmc1.gif?raw=true)
 
