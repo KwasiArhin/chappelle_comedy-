@@ -1,8 +1,6 @@
 # Dave Chapelles comedy routine 
 
-![](https://github.com/KwasiArhin/NflClusterAnalysis/blob/master/images/cmc1.gif?raw=true)
-
-![](https://github.com/KwasiArhin/NflClusterAnalysis/blob/master/Images/cmc.mp4?raw=true)
+![](https://github.com/KwasiArhin/chappelle_comedy-/blob/master/README_imgs/standup.jpg?raw=true)
 
 ## Introduction
 
